@@ -52,7 +52,7 @@ NEWLIB_DIR=newlib
 BINUTILS_REPO=https://sourceware.org/git/binutils-gdb.git
 GCC_REPO=https://github.com/gcc-mirror/gcc.git
 LLVM_REPO=https://github.com/llvm/llvm-project.git
-NEWLIB_REPO=https://sourceware.org/git/newlib-cygwin.git
+NEWLIB_REPO=git://sourceware.org/git/newlib-cygwin.git
 
 
 BINUTILS_CONFIGURE_OPTS() {
